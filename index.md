@@ -16,6 +16,11 @@ This site contains various notes and articles on psychology.
 
 #### Freud
 - [Sigmund Freud](freud/sigmund_freud.md)
+- [Psychodynamic Approach](freud/psychodynamic_approach.md)
+- [Stages of Development](freud/stages_of_development.md)
+- [Defense Mechanisms](freud/defense_mechanisms.md)
+- [Scientific Assessment of Freud](freud/scientific_assessment_of_freud.md)
+- [Taking Freud Seriously](freud/taking_freud_seriously.md)
 
 #### Skinner
 
