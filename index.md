@@ -11,6 +11,8 @@ This site contains various notes and articles on psychology.
 - [Dualism](dualism.md)
 - [Neuron](neuron.md)
 - [Parts of the brain](parts_of_the_brain.md)
+- [Our two brains](our_two_brains.md)
+- [A bit of humility](bit_of_humility.md)
 
 #### Freud
 
