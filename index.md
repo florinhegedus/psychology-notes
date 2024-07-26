@@ -15,6 +15,7 @@ This site contains various notes and articles on psychology.
 - [A bit of humility](the_brain/bit_of_humility.md)
 
 #### Freud
+- [Sigmund Freud](freud/sigmund_freud.md)
 
 #### Skinner
 
