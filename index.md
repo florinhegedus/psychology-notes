@@ -28,3 +28,7 @@ This site contains various notes and articles on psychology.
 - [Classical Conditioning](skinner/classical_conditioning.md)
 - [Instrumental Conditioning](skinner/instrumental_conditioning.md)
 - [Scientific Assessment of Skinner](skinner/scientific_assessment_of_skinner.md)
+
+### Part Two
+
+#### Development

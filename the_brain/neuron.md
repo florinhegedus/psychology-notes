@@ -32,15 +32,6 @@ The brain, despite its unassuming appearance, is the most complex mechanism in t
 - **Amphetamines**: Increase norepinephrine, enhancing arousal and energy.
 - **Prozac and L-Dopa**: Affect serotonin and dopamine levels, used to treat depression and Parkinson's disease respectively.
 
-### Brain Structure and Function
-
-**Subparts of the Brain:**
-- **Hypothalamus**: Regulates basic drives like hunger, thirst, and sex.
-- **Frontal Lobe**: Involved in higher cognitive functions such as reasoning and decision-making.
-
-**Hemispheres of the Brain:**
-- The brain is divided into two halves, the left and right hemispheres, which interact to perform complex tasks.
-
 ### Complexity and Resilience of the Brain
 
 **Computational Neuroscience:**
