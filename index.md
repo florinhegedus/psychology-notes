@@ -32,3 +32,11 @@ This site contains various notes and articles on psychology.
 ### Part Two
 
 #### Development
+- [Big Questions About Development](development/questions_about_development.md)
+- [Piaget](development/piaget.md)
+- [Piaget's Developmental Stage Theory](development/piaget_developmental_stages.md)
+- [Scientific Evaluation of Piaget](development/scientific_evaluation_piaget.md)
+- [Methods for Studying Infants](development/methods_for_studying_infants.md)
+- [How are children different from adults?](development/children_different_from_adults.md)
+- [Explanations for Development](development/explanations_for_development.md)
+
