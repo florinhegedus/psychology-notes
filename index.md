@@ -16,27 +16,34 @@ This site contains various notes and articles on psychology.
 
 #### Freud
 - [Sigmund Freud](freud/sigmund_freud.md)
-- [Psychodynamic Approach](freud/psychodynamic_approach.md)
-- [Stages of Development](freud/stages_of_development.md)
-- [Defense Mechanisms](freud/defense_mechanisms.md)
-- [Scientific Assessment of Freud](freud/scientific_assessment_of_freud.md)
-- [Taking Freud Seriously](freud/taking_freud_seriously.md)
+- [Psychodynamic approach](freud/psychodynamic_approach.md)
+- [Stages of development](freud/stages_of_development.md)
+- [Defense mechanisms](freud/defense_mechanisms.md)
+- [Scientific assessment of Freud](freud/scientific_assessment_of_freud.md)
+- [Taking Freud seriously](freud/taking_freud_seriously.md)
 
 #### Skinner
 - [B.F. Skinner](skinner/bfskinner.md)
 - [Habituation](skinner/habituation.md)
-- [Classical Conditioning](skinner/classical_conditioning.md)
-- [Instrumental Conditioning](skinner/instrumental_conditioning.md)
-- [Scientific Assessment of Skinner](skinner/scientific_assessment_of_skinner.md)
+- [Classical conditioning](skinner/classical_conditioning.md)
+- [Instrumental conditioning](skinner/instrumental_conditioning.md)
+- [Scientific assessment of Skinner](skinner/scientific_assessment_of_skinner.md)
 
 ### Part Two
 
 #### Development
-- [Big Questions About Development](development/questions_about_development.md)
+- [Big questions about development](development/questions_about_development.md)
 - [Piaget](development/piaget.md)
-- [Piaget's Developmental Stage Theory](development/piaget_developmental_stages.md)
-- [Scientific Evaluation of Piaget](development/scientific_evaluation_piaget.md)
-- [Methods for Studying Infants](development/methods_for_studying_infants.md)
+- [Piaget's developmental stage theory](development/piaget_developmental_stages.md)
+- [Scientific evaluation of Piaget](development/scientific_evaluation_piaget.md)
+- [Methods for studying infants](development/methods_for_studying_infants.md)
 - [How are children different from adults?](development/children_different_from_adults.md)
-- [Explanations for Development](development/explanations_for_development.md)
+- [Explanations for development](development/explanations_for_development.md)
 
+#### Language
+- [Basic facts about language](language/basic_facts.md)
+- [Phonology](language/phonology.md)
+- [Morhphology](language/morphology.md)
+- [Syntax](language/syntax.md)
+- [Language acquisition](language/language_aquisition.md)
+- [Language and thought](language/language_and_thought.md)
