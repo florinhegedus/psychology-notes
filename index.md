@@ -4,7 +4,7 @@ This site contains various notes and articles on psychology.
 
 ## Contents
 
-### Part One
+### Part One: Foundations
 
 #### The Brain
 - [Astonishing Theory](the_brain/astonishing_theory.md)
@@ -29,7 +29,7 @@ This site contains various notes and articles on psychology.
 - [Instrumental conditioning](skinner/instrumental_conditioning.md)
 - [Scientific assessment of Skinner](skinner/scientific_assessment_of_skinner.md)
 
-### Part Two
+### Part Two: Development and Language
 
 #### Development
 - [Big questions about development](development/questions_about_development.md)
@@ -47,3 +47,16 @@ This site contains various notes and articles on psychology.
 - [Syntax](language/syntax.md)
 - [Language acquisition](language/language_aquisition.md)
 - [Language and thought](language/language_and_thought.md)
+
+### Part Three: Cognition
+
+#### Perception and Attention
+- [Problems with perception](perception_and_attention/problems_with_perception.md)
+- [Perception of brightness](perception_and_attention/perception_of_brightness.md)
+- [Perception of objects](perception_and_attention/perception_of_objects.md)
+- [Perception of depth](perception_and_attention/perception_of_depth.md)
+- [Attention](perception_and_attention/attention.md)
+
+#### Memory
+- []()
+- []()
